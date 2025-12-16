@@ -1,0 +1,4 @@
+COLLIBRA_REST_BASE_URL=https://instance.collibra.com
+COLLIBRA_GRAPHQL_ENDPOINT=https://instance.collibra.com/graphql/knowledgeGraph/v1
+COLLIBRA_USERNAME=username
+COLLIBRA_PASSWORD=password
